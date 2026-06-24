@@ -106,3 +106,26 @@ If this playbook helped you:
 - Secure your organization's cloud environment
 
 Please consider **starring** ⭐ this repository and sharing it with the InfoSec community!
+
+
+---
+
+## 👤 About the Author
+
+<div align="center">
+  <img src="https://github.com/CeevitWonder.png?size=100" style="border-radius: 50%;" width="100" height="100"/>
+  <br>
+  <b>MD Nahid Hasan (Ceevit Wonder)</b>
+  <br>
+  <i> eJPT | Penetration Tester | Cybersecurity Compliance Auditor | NIST/CIS Frameworks | Red Team Practitioner | Cloud Offensive Security Researcher </i>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahidmohammadhasan/">🔗 LinkedIn</a> •
+  <a href="mailto:your.mnahid.infosec@gmail.com">📧 Email</a> •
+  <a href="https://ceevitwonder.netlify.app/">🌐 Live Website</a>
+</p>
+
+> **💼 Open to Global Remote Opportunities:** I am currently available for remote Cloud Red Team, AWS Pentesting and DevSecOps engagements. If you need an operator who builds safety-first, automated exploitation frameworks, let's talk.
+
+<sub>© 2026 Ceevit Wonder. Licensed under the MIT License. Built with ☕ and a relentless pursuit of cloud security excellence.</sub>
