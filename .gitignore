@@ -1,0 +1,4 @@
+echo "credentials/" > .gitignore
+echo "logs/" >> .gitignore
+echo "*.key" >> .gitignore
+echo ".env" >> .gitignore
