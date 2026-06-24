@@ -76,7 +76,7 @@ aws configure --profile pentest
 # 4. Execute the full automated assessment
 chmod +x scripts/execute_pentest.sh
 ./scripts/execute_pentest.sh pentest target.com
-
+```
 ## ⚠️ Legal & Disclaimer
 
 **THIS TOOLKIT IS FOR EDUCATIONAL AND AUTHORIZED TESTING PURPOSES ONLY.**
@@ -84,7 +84,7 @@ chmod +x scripts/execute_pentest.sh
 - You **must** have explicit, written permission (Rules of Engagement) from the AWS account owner before running any scripts.
 - The authors are **not responsible** for any misuse, billing spikes, or legal consequences resulting from unauthorized testing.
 - Always use `DryRun=True` and test in non-production environments first.
-```
+
 ---
 
 ## 🤝 Contributing
